@@ -1,0 +1,12 @@
+# Requirements for VN Stock Data Downloader
+# Python 3.7+
+
+# Core dependencies
+vnstock3>=3.2.0
+pandas>=1.5.0
+pyarrow>=10.0.0
+tqdm>=4.64.0
+
+# Optional but recommended
+# tenacity>=8.0.0  # For retry logic (already included in vnstock3)
+
