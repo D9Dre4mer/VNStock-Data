@@ -7,6 +7,14 @@ pandas>=1.5.0
 pyarrow>=10.0.0
 tqdm>=4.64.0
 
+# Machine Learning (for stock_price_prediction.ipynb)
+scikit-learn>=1.0.0
+numpy>=1.21.0
+matplotlib>=3.5.0
+seaborn>=0.12.0
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
 # Optional but recommended
 # tenacity>=8.0.0  # For retry logic (already included in vnstock3)
 
