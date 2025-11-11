@@ -186,4 +186,3 @@ Nếu vẫn gặp vấn đề, hãy:
 - Giảm số workers xuống 1: `--workers 1`
 - Tăng sleep time: `--sleep 3.0` hoặc cao hơn
 - Chạy vào giờ thấp điểm
-
